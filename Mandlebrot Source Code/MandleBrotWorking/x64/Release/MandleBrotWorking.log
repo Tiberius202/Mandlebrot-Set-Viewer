@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\hp\Documents\CPPProjects\MandleBrotWorking\MandleBrotWorking\Source.cpp(135,22): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+C:\Users\hp\Documents\CPPProjects\MandleBrotWorking\MandleBrotWorking\Source.cpp(139,23): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+  Generating code
+  0 of 838 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MandleBrotWorking.vcxproj -> C:\Users\hp\Documents\CPPProjects\MandleBrotWorking\x64\Release\MandleBrotWorking.exe
